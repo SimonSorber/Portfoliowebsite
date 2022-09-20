@@ -1,0 +1,22 @@
+p {
+    margin: 20px;
+       padding: 20px;
+     border: 1px;
+     font-family:"Times New Roman";
+     font-size: 20px;
+   }
+   h1{color: blue;
+   font-size:bold;
+   }
+   
+   .featured{
+     font-size: 25px;
+     font-weight: bold;
+   }
+   #more{display: none;}
+   a:hover{color: red;
+   }
+   
+   
+   
+   
